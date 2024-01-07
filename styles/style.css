@@ -35,3 +35,37 @@
     /* font-family: 'Merriweather Sans', sans-serif; */
 
 }
+/* 65% OFF */
+.off{
+    width: 40%;
+    margin: 0 400px;
+}
+.off_2{
+    color: #F00;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 88px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+.holiday{
+    color: #F00;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 200;
+    margin-bottom: 0;
+}
+.all{
+    color: #070211;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 0;
+}
+.new{
+    margin-top: -100px;
+    width: 500px;
+    height: 300px;
+}
