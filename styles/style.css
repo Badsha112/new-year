@@ -117,3 +117,71 @@
     font-weight: 700;
     text-transform: uppercase;
 }
+/* Join now  */
+.Join{
+    width: 1000px;
+    height: 282px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: 0 155px;
+    color: #070211;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 56px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.title{
+    color: #F00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+.join_now{
+    padding: 16px 32px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    color: #FFF;
+    justify-content: center;
+    align-items: center;
+    margin: 0 400px;
+}
+/* 3 items */
+.parent{
+    width: 1000px;
+    height: 282px;
+    margin: 0 155px;
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+}
+.child{
+    width: 25%;
+}
+.circle{
+    margin-top: 30px;
+    height: 250px;
+    width: 250px;
+    outline: 3px solid red;
+    outline-offset: 10px;
+    border-radius: 50%;
+}
+.child > h3{
+    color: #F00;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 500;
+}
+.child > h2{
+    color: #070211;
+    font-size: 38px;;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.child > p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
