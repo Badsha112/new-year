@@ -285,3 +285,42 @@ margin-top: 0;
     width: 300px;
     height: 300px;
 }
+/* inbox_me */
+.inbox_me{
+    margin: 350px auto 0;
+    width: 600px;
+    height: 282px;
+    justify-content: center;
+    text-align: center;
+}
+.inbox_me > h2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.inbox_me > p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.inbox_me > .mail{
+    width: 100px;
+    height: 100px;
+}
+.inbox_me > input{
+    width: 358px;
+    height: 50px;
+    display: inline;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+}
+.inbox_me > button{
+    height: 57px;
+    width: 130px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: #FFF;
+    font-weight: 700;
+}
