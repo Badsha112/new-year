@@ -5,7 +5,7 @@
     border-radius: 16px;
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     margin: 40px 155px 0px 200px;
-    background-image: url('/images/banner.png');
+    background-image: url('../images/banner.png');
     background-size: contain;
     background-repeat: no-repeat;
     justify-content: center;
@@ -76,7 +76,7 @@
     height: 460px;
     fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     margin: 40px 155px;
-    background-image: url('/images/Vectorrr.png');
+    background-image: url('../images/Vectorrr.png');
     background-size: contain;
     background-repeat: no-repeat;
     justify-content: center;
@@ -226,7 +226,7 @@
 .img1{
     height: 400px;
     width: 500px;
-    background-image: url('/images/red.png');
+    background-image: url('../images/red.png');
     background-repeat: no-repeat;
     background-position: bottom;
 }
@@ -234,7 +234,7 @@
     height: 400px;
     width: 700px;
     padding-right: 200px;
-    background-image: url('/images/happy_girl.png');
+    background-image: url('../images/happy_girl.png');
     background-repeat: no-repeat;
     background-position: top;
 }
